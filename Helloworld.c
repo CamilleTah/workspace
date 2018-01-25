@@ -3,6 +3,6 @@
 int main(void)
 {
 	printf("Hello World\n");
-	printf("essai build par scrutation de l'outil de version\n");
+	printf("essai build par declenchement a distance\n");
 	return 0;
 }
